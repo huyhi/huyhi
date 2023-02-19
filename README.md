@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my playground. 😃
+
 ![Top Langs](https://github-readme-stats-rboj3657x.vercel.app/api/top-langs/?username=huyhi&layout=compact)
 
 <!--
